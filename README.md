@@ -28,5 +28,17 @@ A 10×10 2D truss grid with horizontal, vertical, and diagonal members.
 ##### 3.1 – Concentrated Load (10 kN at top-right node)
 ![Displaced Nodes](images/Displaced_nodes.png)
 
-#### 3.2 – Eigenvalue Analysis
+##### 3.2 – Eigenvalue Analysis
 ![Eigenpairs Values](images/Eigenpairs_Values.png
+
+##### 3.3 – Material Properties
+
+![Truss Elongation](images/Truss_Elongation_force.png)
+![Truss Shear](images/Truss_shear_force.png)
+
+
+---
+
+#### Tools Used
+- MATLAB
+- Finite Element Method (FEM)
