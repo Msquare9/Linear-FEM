@@ -23,18 +23,19 @@ The FEM solution showed perfect agreement with the analytical result since the d
 ##### Problem Setup
 A 10×10 2D truss grid with horizontal, vertical, and diagonal members.
 
-![Problem Statement](images/Problem_Statement.png)
+![Problem Statement](images/Problem%20Statement.png)
 
 ##### 3.1 – Concentrated Load (10 kN at top-right node)
-![Displaced Nodes] (images/Displaced_nodes.png)
+![Displaced Nodes](images/Displaced%20nodes.png)
 
 ##### 3.2 – Eigenvalue Analysis
-![Eigenpairs Values](images/Eigenpairs_Values.png
+![Eigenpairs Values](images/Eigenpairs%20Values.png)
+![Eigenpairs Visualization](images/Eigenpairs%20Visualization.png)
 
 ##### 3.3 – Material Properties
 
-![Truss Elongation](images/Truss_Elongation_force.png)
-![Truss Shear](images/Truss_shear_force.png)
+![Truss Elongation](images/Truss%20Elongation%20force.png)
+![Truss Shear](images/Truss%20shear%20force.png)
 
 
 ---
