@@ -23,8 +23,6 @@ The FEM solution showed perfect agreement with the analytical result since the d
 ##### Problem Setup
 A 10×10 2D truss grid with horizontal, vertical, and diagonal members.
 
-![Problem Statement](Problem%20Statement.png)
-
 ##### 3.1 – Concentrated Load (10 kN at top-right node)
 ![Displaced Nodes](Displaced%20nodes.png)
 
