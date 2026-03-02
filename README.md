@@ -26,7 +26,7 @@ A 10×10 2D truss grid with horizontal, vertical, and diagonal members.
 ![Problem Statement](images/Problem_Statement.png)
 
 ##### 3.1 – Concentrated Load (10 kN at top-right node)
-![Displaced Nodes](images/Displaced_nodes.png)
+![Displaced Nodes] (images/Displaced_nodes.png)
 
 ##### 3.2 – Eigenvalue Analysis
 ![Eigenpairs Values](images/Eigenpairs_Values.png
